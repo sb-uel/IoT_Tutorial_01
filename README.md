@@ -1,2 +1,4 @@
 # IoT_Tutorial_01
 Desenvolver uma aplicação utilizando a plataforma Bluemix, com a finalidade de introduzir iniciantes à área de automação, e apresentar o conceito de IoT (Internet of Things).
+
+O desenvolvimento deste tutorial proporcionará o conhecimento de uma nova área da tecnologia: a Internet das coisas. Este conceito relativamente novo propõe a conexão de vários dispositivos, comuns ao cotidiano, à internet (como por exemplo: smartphones, tabletes, notebooks, e até mesmo câmeras de segurança, smart TVs, etc) permitindo a troca de dados entre eles. Este conceito de tecnologia pode ser útil para o fornecimento de informações ou implementação de aplicações físicas (como o desenvolvimento de um sistema para a alimentação de um animal de estimação à distância, por exemplo). Este tutorial apresenta ainda a plataforma Bluemix, disponibilizada pela IBM, que permite o desenvolvimento de diversas aplicações como estas exemplificadas.
